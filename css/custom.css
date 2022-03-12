@@ -11142,13 +11142,13 @@ header {
 
 .mov-logo {
   transition: all 2s;
-  height: 35vh;
-  width: 30vw;
+  height: 100px;
+  width: 210px;
 }
 
 .mov-logo:hover {
-  height: 40vh;
-  width: 35vw;
+  height: 150px;
+  width: 300px;
 }
 
 .bg-title {

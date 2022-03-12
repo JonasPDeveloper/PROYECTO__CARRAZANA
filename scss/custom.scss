@@ -118,3 +118,13 @@ header {
 .bg-help {
   background-color: $tercery;
 }
+
+.size-img {
+  height: 500px;
+  width: 500px;
+}
+
+.size-img:hover {
+  height: 650px;
+  width: 650px;
+}

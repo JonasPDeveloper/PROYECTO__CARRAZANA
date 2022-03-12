@@ -11232,4 +11232,14 @@ header {
   background-color: #ff5a33;
 }
 
+.size-img {
+  height: 500px;
+  width: 500px;
+}
+
+.size-img:hover {
+  height: 650px;
+  width: 650px;
+}
+
 /*# sourceMappingURL=custom.css.map */

@@ -1,0 +1,25 @@
+.bg-title {
+  background-color: $primary;
+}
+
+.bg-footer {
+  background-color: $secundary;
+  animation-name: footer;
+  transition: all 3s;
+}
+
+.body-bg {
+  background-color: $secundary;
+}
+
+.bg-text {
+  color: #8fbfba;
+}
+
+.bg-jpdeve {
+  color: $tercery;
+}
+
+.bg-help {
+  background-color: $tercery;
+}

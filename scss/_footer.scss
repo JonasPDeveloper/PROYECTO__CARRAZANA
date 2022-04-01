@@ -1,0 +1,16 @@
+.footer-botton {
+  background-color: #630085;
+}
+
+.footer-botton:hover {
+  background-color: linear-gradiant(left, #411050, #9a02c9);
+}
+
+@keyframes footer {
+  0% {
+    background-color: #b158cc;
+  }
+  50% {
+    background-color: #a400db;
+  }
+}
